@@ -1,0 +1,6 @@
+br\com\ecommerce\KafkaService.class
+br\com\ecommerce\ConsumerFunction.class
+br\com\ecommerce\Email.class
+br\com\ecommerce\GsonSerializer.class
+br\com\ecommerce\GsonDeserializer.class
+br\com\ecommerce\KafkaDispatcher.class
